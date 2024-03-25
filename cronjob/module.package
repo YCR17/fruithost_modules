@@ -1,0 +1,14 @@
+{
+	"name":			"Cronjob",
+	"version":		"1.5.2",
+	"category":		"HOSTING_MANAGEMENT",
+	"icon":			"stopwatch",
+	"order":		4,
+	"description":	"Creates time-based tasks and controls web addresses or PHP scripts.",
+	"author":		{
+		"name":		"Adrian Preuß",
+		"email":	"info@fruithost.de",
+		"url":		"https://fruithost.de"
+	},
+	"repository":	"https://github.com/fruithost/Modules"
+}

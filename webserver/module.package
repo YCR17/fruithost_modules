@@ -1,0 +1,14 @@
+{
+	"name":			"WebServer",
+	"version":		"1.0.0",
+	"category":		"HOSTING_MANAGEMENT",
+	"icon":			"cloud",
+	"order":		2,
+	"description":	"User-specific web server settings can be easily set by the user.",
+	"author":		{
+		"name":		"Adrian Preuß",
+		"email":	"info@fruithost.de",
+		"url":		"https://fruithost.de"
+	},
+	"repository":	"https://github.com/fruithost/Modules"
+}

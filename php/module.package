@@ -1,0 +1,17 @@
+{
+	"name":			"PHP",
+	"version":		"1.0.6",
+	"category":		"HOSTING_MANAGEMENT",
+	"icon":			"code",
+	"order":		3,
+	"description":	"PHP specific settings that can be set globally as well as domain related.",
+	"author":		{
+		"name":		"Adrian Preuß",
+		"email":	"info@fruithost.de",
+		"url":		"https://fruithost.de"
+	},
+	"repository":	"https://github.com/fruithost/Modules",
+	"depencies": {
+		"domains": "1.1.2"
+	}
+}

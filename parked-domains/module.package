@@ -1,0 +1,14 @@
+{
+	"name":			"Parked Domains",
+	"version":		"1.0.0",
+	"category":		"DOMAIN_MANAGEMENT",
+	"icon":			"directions_car",
+	"order":		4,
+	"description":	"Allows parking of domains for your customers.",
+	"author":		{
+		"name":		"Adrian Preuß",
+		"email":	"info@fruithost.de",
+		"url":		"https://fruithost.de"
+	},
+	"repository":	"https://github.com/fruithost/Modules"
+}

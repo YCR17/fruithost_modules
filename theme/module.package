@@ -1,0 +1,14 @@
+{
+	"name":			"Theme",
+	"version":		"1.0.6",
+	"category":		"NULL",
+	"icon":			"NULL",
+	"order":		4,
+	"description":	"With this module the user can change the theme.",
+	"author":		{
+		"name":		"Adrian Preuß",
+		"email":	"info@fruithost.de",
+		"url":		"https://fruithost.de"
+	},
+	"repository":	"https://github.com/fruithost/Modules"
+}

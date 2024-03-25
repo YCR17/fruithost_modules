@@ -1,0 +1,14 @@
+{
+	"name":			"Subdomains",
+	"version":		"1.0.0",
+	"category":		"DOMAIN_MANAGEMENT",
+	"icon":			"subdirectory_arrow_right",
+	"order":		1,
+	"description":	"Administration for subdomains with various functions",
+	"author":		{
+		"name":		"Adrian Preuß",
+		"email":	"info@fruithost.de",
+		"url":		"https://fruithost.de"
+	},
+	"repository":	"https://github.com/fruithost/Modules"
+}
